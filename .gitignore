@@ -1,0 +1,19 @@
+# Secrets and configuration
+.env
+
+# Virtual environments (the slashes tell Git these are whole folders)
+My_venv/
+My_Virtual_Env/
+
+# Python caching artifacts
+__pycache__/
+*.pyc
+
+# Personal notes and RAG data files
+summary.txt
+llm.txt
+info.txt
+learning.txt
+day4.txt
+day5.txt
+fi.pdf

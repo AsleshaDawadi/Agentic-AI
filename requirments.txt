@@ -1,0 +1,7 @@
+numpy 
+pandas
+langchain
+langchain-core 
+langchain-community
+langchain_groq
+langchain_google_genai

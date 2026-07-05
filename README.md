@@ -20,6 +20,7 @@ After the fundamentals, I moved to the most highlighted part of agentic AI today
 
 ## Project Map
  `class 1/` to `class 5/` — study folders in order
+ `class6/`- made a youtube rag application where user asks qqury  and the query is answerd as in the youtube video
  `fi.pdf` — the PDF I used to test RAG
  `requirements.txt` — dependencies to run everything
 

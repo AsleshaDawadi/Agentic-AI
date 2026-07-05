@@ -1,2 +1,0 @@
-user give a youtube url 
-then rag application extracts embedds and do a vector and rag application for youtube video
